@@ -1,0 +1,11 @@
+{
+  "title": {
+      "text1": " **| Abonnement Bot**",
+      "text2": " **| Gestion du bot**"
+  },
+  "description": {
+      "text1": "Le bot est payé pour encore *`",
+      "text2": " **| Le temps d'abonnement a bien été ajouté au bot !**",
+      "text3": " **| Le temps d'abonnement a bien été réinitialisé !**"
+  }
+}

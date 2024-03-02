@@ -1,0 +1,14 @@
+{
+  "title": {
+      "text1": " **| Niveau**"
+  },
+  "description": {
+      "text1": " **| La somme d'argent à ajouter doit être supérieur ou égale à** *`1`* **!**",
+      "text2": " **| La somme d'argent à retirer doit être supérieur ou égale à** *`1`* **!**",
+      "text3": " **| Les** *`",
+      "text4": "`* **ont bien été ajoutés à l'utilisateur** *`",
+      "text5": "`* **!**",
+      "text6": "`* **ont bien été retirés à l'utilisateur** *`",
+      "text7": " **| Vous ne pouvez pas retirer plus d'argent que ce que l'utilisateur possède !**"
+  }
+}

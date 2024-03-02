@@ -1,0 +1,11 @@
+{
+  "title": {
+      "text1": " **| Suppression des donnés**"
+  },
+  "description": {
+      "text1": "**Etes vous sûr de vouloir réinitialiser toute l'économie du serveur** ***(après acceptation, il est impossible de revenir en arrière)*** **?**",
+      "text2": " **| Le suppression a bien été annulée !**",
+      "text3": " **| Suppression des donnés en cours...**",
+      "text4": " **| Toute l'économie a été réinitialisée !**"
+  }
+}

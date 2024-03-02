@@ -1,0 +1,22 @@
+{
+    "status": {
+        "name": "📬・Business Bot | /",
+        "status": "STREAMING",
+        "URL": "https://www.twitch.tv/partnerproject"
+    },
+    
+    "color": {
+        "color_verif_bin": "#676c73",
+        "color_verif_stop": "#2f3136",
+        "color": "#002d67",
+        "color_error": "#ff453a",
+        "color_good": "#30d158",
+        "error": "#ef8b01"
+    },
+    "channels": {
+        "error": "1019291782833516604"
+    },
+    "system": {
+        "subscribe": "1019291313402810388"
+    }
+}

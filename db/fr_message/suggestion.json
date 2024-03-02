@@ -1,0 +1,12 @@
+{
+  "title": {
+      "text1": " **| Nouvelle Suggestion**"
+  },
+  "description": {
+      "text1": "Cet utilisateur est au niveau ",
+      "text2": " !",
+      "text3": "Vous êtes au niveau ",
+      "text4": " !",
+      "text5": " **| Votre suggestion ne peut pas contenir de lien !**"
+  }
+}

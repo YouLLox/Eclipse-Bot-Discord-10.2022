@@ -1,0 +1,29 @@
+{
+    "title": {
+        "text1": " **| Gestion des modules**"
+    },
+    "description": {
+        "text1": " __**| Modules:**__",
+        "text2": " **| Utilitaire** = *Activer/Désactiver le module de commandes utilitaires.*",
+        "text3": " **| Modération** = *Activer/Désactiver le module de modération.*",
+        "text4": " **| Niveaux** = *Activer/Désactiver le module de niveaux.*",
+        "text5": " **| Partenariat** = *Activer/Désactiver le module de partenariat.*",
+        "text6": " **| Ghostping** = *Activer/Désactiver le module de ghostping.*",
+        "text7": " **| Bienvenue** = *Activer/Désactiver le module de bienvenue.*",
+        "text8": " **| Embed** = *Activer/Désactiver le module d'embed*",
+        "text9": " **| Vérification** = *Activer/Désactiver le module de vérification.*",
+        "text10": " **| Economie** = *Activer/Désactiver le module d'économie.*",
+        "text11": " **| Suggestion** = *Activer/Désactiver le module de suggestion.*",
+        "text12": " **| Partenariat MP** = *Activer/Désactiver le module de partenariat MP.*",
+        "text13": " **| Salons personnalisés** = *Activer/Désactiver le module de salons personnalisés.*",
+        "text14": " **| Logs** = *Activer/Désactiver le module de Logs*"
+    },
+    "utilitaire": {
+        "title": {
+            "text1": " **| Menu de configuration**"
+        },
+        "description": {
+            "text1": " __**| Utilitaires:**__"
+        }
+    }
+}

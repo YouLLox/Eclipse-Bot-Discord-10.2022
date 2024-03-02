@@ -1,0 +1,17 @@
+{
+    "title": {
+        "text1": " **| Informations du serveur**",
+        "text2": " **| Une erreur a été detectée !**"
+    },
+    "description": {
+        "text1": " **| Nom du serveur:** ",
+        "text2": " **| ID du serveur:** ",
+        "text3": " **| Propriétaire du serveur:** ",
+        "text4": " **| Description du serveur:** ",
+        "text5": " **| Date de création:** ",
+        "text6": " **| Nombre de membre(s):** ",
+        "text7": " **| Nombre de boost(s):** ",
+        "text8": " **| Niveau de boost(s):** ",
+        "text9": " **| Une erreur est survenue, les développeurs en ont été avertis, ils interviendront dès que possible !**" 
+    }
+}

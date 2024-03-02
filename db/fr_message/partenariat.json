@@ -1,0 +1,23 @@
+{
+    "title": {
+        "text1": " **| Module Partenariat**",
+        "text2": " **| Nouveau Partenariat**",
+        "text3": " **| Partenariat**"
+    },
+    "description": {
+        "text1": " **| Vous devez posséder le rôle** *`",
+        "text2": "`* **pour pouvoir lancer le procéssus de partenariat !**",
+        "text3": " **| Représentant:** ",
+        "text4": " **| Auteur:** *`",
+        "text5": " **| Mention:** ",
+        "text6": " **| Publicité:** ",
+        "text7": " **| Veuillez indiquer le responsable du partenariat !**\n *Pour annuler, répondez par `cancel`.*",
+        "text8": " **| Le nombre de partenariat(s) journalier(s) a été atteint ! Augmentez la limite ou attendez demain pour poursuivre...**",
+        "text9": " **| Le partenariat a bien été envoyé dans le salon** *`",
+        "text10": "`* **et un rôle vous a été ajouté pour vous récompenser !**",
+        "text11": "Vous possédez *`",
+        "text12": " partenariat(s)`* !",
+        "text13": "Cet utilisateur possède *`",
+        "text14": " partenariat(s`* !"
+    }
+}

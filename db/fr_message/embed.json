@@ -1,0 +1,18 @@
+{
+    "title": {
+        "text1": " **| Système d'embed**"
+    },
+    "description": {
+        "text1": " **| Veuillez indiquer le salon dans lequel doit être envoyé l'embed !**\n *Pour annuler, répondez par `cancel`.*",
+        "text2": " **| Veuillez indiquer le titre de l'embed !**\n *Pour annuler, répondez par `cancel`.*",
+        "text3": " **| Veuillez indiquer la description de l'embed !**\n *Pour annuler, répondez par `cancel`.*",
+        "text4": " **| Veuillez indiquer le text du footer !**\n *Pour annuler, répondez par `cancel`.*",
+        "text5": " **| Veuillez indiquer l'utilisateur en question !**\n *Pour annuler, répondez par `cancel`.*",
+        "text6": " **| Veuillez indiquer le text de l'auteur !**\n *Pour annuler, répondez par `cancel`.*",
+        "text7": " **| L'embed a bien été supprimé !**",
+        "text8": " **| L'embed a bien été envoyé dans le salon** *`",
+        "text9": "`* **!**",
+        "text10": " **| L'embed doit posséder au moins 1 paramètre !**",
+        "text11": " **| Le message a bien été envoyé !**"
+    }
+}

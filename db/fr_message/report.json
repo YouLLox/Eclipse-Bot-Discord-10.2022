@@ -1,0 +1,16 @@
+{
+    "title": {
+        "text1": " **| Message Signalé**"
+    },
+    "description": {
+        "text1": " **| Vous devez patienter encore** *`",
+        "text2": " secondes`* **avant de pouvoir de nouveau signaler un message !**",
+        "text3": " **| Ce message a déjà été signalé à l'équipe !**",
+        "text4": " **| Le module n'a pas été entièrement configuré !**",
+        "text5": " **Auteur** *(message)* **:** ",
+        "text6": " **Auteur** *(signalement)* **:** ",
+        "text7": " **| Le signalement a bien été envoyé à l'équipe !**",
+        "text8": " **Salon:** ",
+        "text9": " **Message:** "
+    }
+  }

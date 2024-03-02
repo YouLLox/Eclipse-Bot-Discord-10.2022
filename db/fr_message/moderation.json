@@ -1,0 +1,25 @@
+{
+    "title": {
+        "text1": "🔨 **| Nouvelle sanction**",
+        "text2": " **| Avertissements**",
+        "text3": " **| Avertissemnet retiré**",
+        "text4": " **| Salon verrouillé**",
+        "text5": " **| Salon déverrouillé**",
+        "text6": " **| Suppréssion de messages**"
+    },
+    "description": {
+        "text1": " **| L'utilisateur a bien été sanctionné !**",
+        "text2": " **| Cet utilisateur possède** *`",
+        "text3": " avertissement(s)`* !",
+        "text4": " **| Cet utilisateur ne possède aucun avertissement !**",
+        "text5": " **| 1 Avertissement a été retiré à cet utilisateur !**",
+        "text6": " **| 1 Avertissement vous a été retiré sur** **`",
+        "text7": "`** **!**",
+        "text8": " **| Le nombre de message(s) à supprimer doit être compris entre `1` et `100` !**",
+        "text9": " **| Les `",
+        "text10": " message(s)` ont bien été supprimés !**",
+        "text11": " **| L'utilisateur a bien été débanni !**",
+        "text12": " **| Salon verrouillé !**",
+        "text13": " **| Salon déverrouillé !**"
+    }
+  }

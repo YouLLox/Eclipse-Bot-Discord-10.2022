@@ -1,0 +1,13 @@
+{
+    "title": {
+        "text1": " **| Informations sur l'utilisateur**",
+        "text2": " **| Une erreur a été detectée !**"
+    },
+    "description": {
+        "text1": " **| Nom:** ",
+        "text2": " **| ID:** ",
+        "text3": " **| Date de join:** ",
+        "text4": " **| Date de création:** ",
+        "text5": " **| Une erreur est survenue, les développeurs en ont été avertis, ils interviendront dès que possible !**" 
+    }
+}

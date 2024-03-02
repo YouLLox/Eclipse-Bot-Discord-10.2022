@@ -1,0 +1,23 @@
+{
+    "title": {
+        "text1": " **| Nouvelle publicité en attente**",
+        "text2": "**Avertissement**",
+        "text3": " **| Publicité acceptée**",
+        "text4": " **| Publicité refusée**",
+        "text5": " **| Publicité mise de côté**",
+        "text6": " **| Vérifications**"
+    },
+    "description": {
+        "text1": " **| Ce salon n'est pas/plus un salon publicitaire !**",
+        "text2": " **| Votre publicité est en attente de vérification !**",
+        "text3": " **| Vous devez posséder le rôle** *`",
+        "text4": "`* **pour poursuivre !**",
+        "text5": " **| Vous devez patienter encore** *`",
+        "text6": " seconde(s)`* **avant de pouvoir de nouveau poster votre publicité !**",
+        "text7": " **| Il est impossible de faire ce leaderboard sur ce serveur !**",
+        "text8": " **| Vous possédez** *`",
+        "text9": " vérifications`* **!**",
+        "text10": " **| Cet utilisateur possède** *`",
+        "text11": " **| Le système de vérification n'est pas totalement configuré, veuillez contacter le support du serveur.**"
+    }
+}
