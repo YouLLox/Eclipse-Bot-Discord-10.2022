@@ -1,0 +1,19 @@
+{
+  "utilitaire": "off",
+  "level": "off",
+  "partenariat": "off",
+  "suggestion": "off",
+  "welcome": "off",
+  "embed": "off",
+  "verification": "off",
+  "economie": "off",
+  "moderation": "off",
+  "ghostping": "off",
+  "sperso": "off",
+  "logs": "off",
+  "game": "off",
+  "pub": "off",
+  "report": "off",
+  "invites": "off",
+  "partenariat_mp": "off"
+}
